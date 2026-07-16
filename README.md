@@ -156,7 +156,7 @@ Stores image metadata generated after Rekognition analysis.
 
 Automatic deployment pipeline for the frontend.
 
-![Pipeline](project_images/codepipeline.png)
+![Pipeline](project_images/codepiepline.png)
 
 ---
 
